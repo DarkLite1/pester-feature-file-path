@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="30" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-02-11" time="10:02:05">
+  <environment clr-version="4.0.30319.42000" user-domain="GROUPHC" cwd="T:\Test\Brecht\PowerShell\Pester testie" platform="Microsoft Windows Server 2016 Standard|C:\windows|\Device\Harddisk0\Partition2" machine-name="BELSGFRANIT04" nunit-version="2.5.8.0" os-version="10.0.14393" user="bgijbels" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="TestFixture" name="Pester" executed="True" result="Success" success="True" time="10.8238" asserts="0" description="Pester">
+    <results>
+      <test-suite type="TestFixture" name="T:\Test\Brecht\PowerShell\Pester testie\File1.Tests.ps1" executed="True" result="Success" success="True" time="1.7937" asserts="0" description="T:\Test\Brecht\PowerShell\Pester testie\File1.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="File 1 Describe 1" executed="True" result="Success" success="True" time="1.2174" asserts="0" description="File 1 Describe 1">
+            <results>
+              <test-suite type="TestFixture" name="File 1 Describe 1.File 1 Describe 1 Context 1" executed="True" result="Success" success="True" time="0.4971" asserts="0" description="File 1 Describe 1.File 1 Describe 1 Context 1">
+                <results>
+                  <test-case description="File 1 Describe 1 Context 1 Test 1 (02)" name="File 1 Describe 1.File 1 Describe 1 Context 1.File 1 Describe 1 Context 1 Test 1 (02)" time="0.1443" asserts="0" success="True" result="Success" executed="True" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="File 1 Describe 1.File 1 Describe 1 Context 2" executed="True" result="Success" success="True" time="1.0256" asserts="0" description="File 1 Describe 1.File 1 Describe 1 Context 2">
+                <results>
+                  <test-suite type="TestFixture" name="File 1 Describe 1.File 1 Describe 1 Context 2.File 1 Describe 1 Context 2 Context 1" executed="True" result="Success" success="True" time="0.3396" asserts="0" description="File 1 Describe 1.File 1 Describe 1 Context 2.File 1 Describe 1 Context 2 Context 1">
+                    <results>
+                      <test-case description="File 1 Describe 1 Context 2 Context 1 Test 1 (03)" name="File 1 Describe 1.File 1 Describe 1 Context 2.File 1 Describe 1 Context 2 Context 1.File 1 Describe 1 Context 2 Context 1 Test 1 (03)" time="0.1521" asserts="0" success="True" result="Success" executed="True" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-case description="File 1 Describe 1 Test 1 (01)" name="File 1 Describe 1.File 1 Describe 1 Test 1 (01)" time="0.1454" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="TestFixture" name="T:\Test\Brecht\PowerShell\Pester testie\File2.Tests.ps1" executed="True" result="Success" success="True" time="5.7201" asserts="0" description="T:\Test\Brecht\PowerShell\Pester testie\File2.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="File 2 Describe 1" executed="True" result="Success" success="True" time="1.1224" asserts="0" description="File 2 Describe 1">
+            <results>
+              <test-suite type="TestFixture" name="File 2 Describe 1.File 2 Describe 1 Context 1" executed="True" result="Success" success="True" time="0.4737" asserts="0" description="File 2 Describe 1.File 2 Describe 1 Context 1">
+                <results>
+                  <test-case description="File 2 Describe 1 Context 1 Test 1 (04)" name="File 2 Describe 1.File 2 Describe 1 Context 1.File 2 Describe 1 Context 1 Test 1 (04)" time="0.1412" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="File 2 Describe 1 Context 1 Test 2 (05)" name="File 2 Describe 1.File 2 Describe 1 Context 1.File 2 Describe 1 Context 1 Test 2 (05)" time="0.152" asserts="0" success="True" result="Success" executed="True" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="File 2 Describe 1.File 2 Describe 1 Context 2" executed="True" result="Success" success="True" time="0.9439" asserts="0" description="File 2 Describe 1.File 2 Describe 1 Context 2">
+                <results>
+                  <test-case description="File 2 Describe 1 Context 2 Test 1 (06)" name="File 2 Describe 1.File 2 Describe 1 Context 2.File 2 Describe 1 Context 2 Test 1 (06)" time="0.1324" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="File 2 Describe 1 Context 2 Test 2 (07)" name="File 2 Describe 1.File 2 Describe 1 Context 2.File 2 Describe 1 Context 2 Test 2 (07)" time="0.1336" asserts="0" success="True" result="Success" executed="True" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 2 Describe 2" executed="True" result="Success" success="True" time="1.574" asserts="0" description="File 2 Describe 2">
+            <results>
+              <test-case description="File 2 Describe 2 Test 1 (08)" name="File 2 Describe 2.File 2 Describe 2 Test 1 (08)" time="0.1352" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 2 Describe 2 Test 2 (09)" name="File 2 Describe 2.File 2 Describe 2 Test 2 (09)" time="0.1324" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 2 Describe 3" executed="True" result="Success" success="True" time="2.0335" asserts="0" description="File 2 Describe 3">
+            <results>
+              <test-case description="File 2 Describe 3 Test 1 (10)" name="File 2 Describe 3.File 2 Describe 3 Test 1 (10)" time="0.1366" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 2 Describe 3 Test 2 (11)" name="File 2 Describe 3.File 2 Describe 3 Test 2 (11)" time="0.1502" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 2 Describe 4" executed="True" result="Success" success="True" time="2.5157" asserts="0" description="File 2 Describe 4">
+            <results>
+              <test-case description="File 2 Describe 4 Test 1 (12)" name="File 2 Describe 4.File 2 Describe 4 Test 1 (12)" time="0.1637" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 2 Describe 4 Test 2 (13)" name="File 2 Describe 4.File 2 Describe 4 Test 2 (13)" time="0.1471" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 2 Describe 5" executed="True" result="Success" success="True" time="3.0045" asserts="0" description="File 2 Describe 5">
+            <results>
+              <test-case description="File 2 Describe 5 Test 1 (14)" name="File 2 Describe 5.File 2 Describe 5 Test 1 (14)" time="0.1286" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 2 Describe 5 Test 2 (15)" name="File 2 Describe 5.File 2 Describe 5 Test 2 (15)" time="0.1543" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 2 Describe 6" executed="True" result="Success" success="True" time="3.9191" asserts="0" description="File 2 Describe 6">
+            <results>
+              <test-suite type="TestFixture" name="File 2 Describe 6.File 2 Describe 6 Context 1" executed="True" result="Success" success="True" time="0.7329" asserts="0" description="File 2 Describe 6.File 2 Describe 6 Context 1">
+                <results>
+                  <test-case description="File 2 Describe 6 Context 1 Test 1 (18)" name="File 2 Describe 6.File 2 Describe 6 Context 1.File 2 Describe 6 Context 1 Test 1 (18)" time="0.1393" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="File 2 Describe 6 Context 1 Test 2 (19)" name="File 2 Describe 6.File 2 Describe 6 Context 1.File 2 Describe 6 Context 1 Test 2 (19)" time="0.1548" asserts="0" success="True" result="Success" executed="True" />
+                </results>
+              </test-suite>
+              <test-case description="File 2 Describe 6 Test 1 (16)" name="File 2 Describe 6.File 2 Describe 6 Test 1 (16)" time="0.1324" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 2 Describe 6 Test 2 (17)" name="File 2 Describe 6.File 2 Describe 6 Test 2 (17)" time="0.1346" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 2 Describe 7" executed="True" result="Success" success="True" time="4.433" asserts="0" description="File 2 Describe 7">
+            <results>
+              <test-case description="File 2 Describe 7 Test 1 (20)" name="File 2 Describe 7.File 2 Describe 7 Test 1 (20)" time="0.1517" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 2 Describe 7 Test 2 (21)" name="File 2 Describe 7.File 2 Describe 7 Test 2 (21)" time="0.1342" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="TestFixture" name="T:\Test\Brecht\PowerShell\Pester testie\File3.Tests.ps1" executed="True" result="Success" success="True" time="2.1026" asserts="0" description="T:\Test\Brecht\PowerShell\Pester testie\File3.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="File 3 Describe 1" executed="True" result="Success" success="True" time="0.366" asserts="0" description="File 3 Describe 1">
+            <results>
+              <test-case description="File 3 Describe 1 Test 1 (22)" name="File 3 Describe 1.File 3 Describe 1 Test 1 (22)" time="0.1627" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 3 Describe 2" executed="True" result="Success" success="True" time="0.6443" asserts="0" description="File 3 Describe 2">
+            <results>
+              <test-case description="File 3 Describe 2 Test 1 (23)" name="File 3 Describe 2.File 3 Describe 2 Test 1 (23)" time="0.1315" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 3 Describe 3" executed="True" result="Success" success="True" time="1.0331" asserts="0" description="File 3 Describe 3">
+            <results>
+              <test-case description="File 3 Describe 3 Test 1 (24)" name="File 3 Describe 3.File 3 Describe 3 Test 1 (24)" time="0.1156" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 3 Describe 3 Test 2 (25)" name="File 3 Describe 3.File 3 Describe 3 Test 2 (25)" time="0.125" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="File 3 Describe 4" executed="True" result="Success" success="True" time="1.5122" asserts="0" description="File 3 Describe 4">
+            <results>
+              <test-case description="File 3 Describe 4 Test 1 (26)" name="File 3 Describe 4.File 3 Describe 4 Test 1 (26)" time="0.1542" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="File 3 Describe 4 Test 2 (27)" name="File 3 Describe 4.File 3 Describe 4 Test 2 (27)" time="0.1382" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="TestFixture" name="T:\Test\Brecht\PowerShell\Pester testie\File4.Tests.ps1" executed="True" result="Success" success="True" time="1.2074" asserts="0" description="T:\Test\Brecht\PowerShell\Pester testie\File4.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="File 4 Describe 1" executed="True" result="Success" success="True" time="0.7466" asserts="0" description="File 4 Describe 1">
+            <results>
+              <test-suite type="TestFixture" name="File 4 Describe 1.File 4 Describe 1 Context 1" executed="True" result="Success" success="True" time="0.5803" asserts="0" description="File 4 Describe 1.File 4 Describe 1 Context 1">
+                <results>
+                  <test-case description="File 4 Describe 1 Context 1 Test 1 (28)" name="File 4 Describe 1.File 4 Describe 1 Context 1.File 4 Describe 1 Context 1 Test 1 (28)" time="0.1316" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="File 4 Describe 1 Context 1 Test 1 (29)" name="File 4 Describe 1.File 4 Describe 1 Context 1.File 4 Describe 1 Context 1 Test 1 (29)" time="0.1339" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="File 4 Describe 1 Context 1 Test 1 (30)" name="File 4 Describe 1.File 4 Describe 1 Context 1.File 4 Describe 1 Context 1 Test 1 (30)" time="0.1422" asserts="0" success="True" result="Success" executed="True" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
