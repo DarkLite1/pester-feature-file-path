@@ -3,9 +3,6 @@
         Path     = '.'
         PassThru = $true
     }
-    TestResult = @{
-        Enabled = $true
-    }
 }
 
 $results = Invoke-Pester -Configuration $config
